@@ -12,3 +12,8 @@ Ferrmantas de Controle de Versão:
 * Clear Case
 * Git
 * Visual Studio Team Services
+* Clear Case
+* Mercurial
+* Performace
+* Bitbucket
+
